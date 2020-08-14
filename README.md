@@ -3,3 +3,13 @@
 This is modified and more lightweight version of original application to practice UI Automation with Cypress.
 
 The original repo is here: https://github.com/akveo/ngx-admin
+
+
+#############################################################
+
+#start the server
+cd into the directory 
+
+npm start
+
+localhost:4200
